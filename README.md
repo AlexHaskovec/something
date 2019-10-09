@@ -1,3 +1,4 @@
+
 # Something
 
 The program asks for your name and if you want it printed backwards, and then uses recursion to print the name backwards if the user chooses to do so.
@@ -34,3 +35,12 @@ We used the unlicense license because we want our program to be used by anyone f
 The code is simple enough that if anyone wants to use it then they should be able to with the least amount of restriction possible.
 
 We chose our code of conduct because it lays out the terms of behavior very clearly. It lays a groundwork that supports marginalized people and takes a firm stand against inappropriate and unwelcoming behavior. Basically it's a very clear and verbose "don't be a dick."
+=======
+# something
+
+The program asks for your name and if you want it printed backwards, and then uses recursion to print the name backwards if the user chooses to do so.
+
+# Contributors:
+Matt Deible
+Alex Haskovec
+
